@@ -1,4 +1,4 @@
-# CHATBOX NodeJS 😃
+# CHATBOX NodeJS 
 
 Réalisation d'un Chat en NodeJS avec SocketIO.
 
